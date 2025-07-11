@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nazev": "Kniha 1",
+        "obalka_knihy": "assets/img/kniha1.jpg",
+        "autor": "Autor 1",
+        "zanr": "Zanr 1",
+        "rok": 2021,
+        "cena": 19.99,
+        "hodnoceni": 4
+    }
+]
