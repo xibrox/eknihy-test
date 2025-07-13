@@ -109,7 +109,7 @@
 
     <div class="book-detail">
         <div class="image-wrapper">
-            <img src="<?= htmlspecialchars($book['obalka_knihy'] ?? 'assets/img/default.jpg') ?>" alt="Obálka knihy">
+            <img src="<?= htmlspecialchars($book['obalka_knihy'] ?: 'assets/img/default.png') ?>" alt="Obálka knihy">
         </div>
         <div class="book-info">
             <h2><?= htmlspecialchars($book['nazev']) ?></h2>

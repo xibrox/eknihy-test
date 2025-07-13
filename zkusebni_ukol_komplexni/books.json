@@ -1,12 +1,32 @@
 [
     {
-        "id": 1,
-        "nazev": "Kniha 1",
-        "obalka_knihy": "assets/img/kniha1.jpg",
-        "autor": "Autor 1",
-        "zanr": "Zanr 1",
-        "rok": 2021,
-        "cena": 19.99,
-        "hodnoceni": 4
+        "nazev": "Kryšař",
+        "obalka_knihy": "assets/img/krysar.png",
+        "autor": "Viktor Dyk",
+        "zanr": "Novela",
+        "anotace": "Novela Krysař Viktora Dyka nejdříve vycházela v časopisu Lumír pod názvem Pravdivý příběh (1911–1912). Pod názvem Krysař byla vydána poprvé v roce 1915. Inspirací byla Dykovi stará německá pověst o krysařovi, který pomohl městu Hameln vyčistit město od krys. Když poté za svoji práci nedostal zaplaceno, odvedl za trest obyvatelům města jejich děti. V Dykově ztvárnění se z pověsti stal romantický příběh osudové lásky a vzpoury proti měšťácké zkaženosti. Jeho krysař je tajemná postava, která osaměle putuje městy a dokáže svou píšťalou ovládat kromě krys i všechno živé. Pak se však zamiluje do Agnes a ta jeho lásku opětuje. Ve městě žije také rybář Sepp Jörgen, který je kvůli svému pomalému myšlení celým městem, stejně jako krysař, opovrhován. Krysař svoji zakázku pro město splní, ale měšťané se zdráhají vyplatit mu odměnu. A pak se dozví, že Agnes čeká díte s bývalým milencem. Zoufalý nad zklamaním z lásky i z obyvatel města se krysař rozhodne pro pomstu. Mámení jeho píšťaly odolává jen Sepp Jörgen…",
+        "rok": 1915,
+        "cena": 199.00,
+        "hodnoceni": 4.1
+    },
+    {
+        "nazev": "O myších a lidech",
+        "obalka_knihy": "assets/img/o_mysich_a_lidech.png",
+        "autor": "John Steinbeck",
+        "zanr": "Novela",
+        "anotace": "Dva nemajetní zemědělští dělníci přicházejí ve 30. letech 20. století pracovat na farmu do Salinaského údolí. Každý z nich má jinou povahu, oba však spřádají sny a iluze, že jednou se jim podaří mít své vlastní hospodářství a budou tam chovat králíky. Doba je hodně zlá – a nejhorší se teprve rýsuje. Ochranářský a prozíravý George správně tuší, že slaboduchý silák Lennie by nechtě mohl způsobit katastrofu… Světoznámá novela přináší působivý příběh, v němž osudové zlo nenávratně zničí idylickou touhu po klidném životě. O myších a lidech patří k nejhodnotnějším prózám Johna Steinbecka. Toto dílo bylo úspěšně zfilmováno a odneslo si řadu nejvyšších ocenění.",
+        "rok": 1937,
+        "cena": 249.00,
+        "hodnoceni": 4.4
+    },
+    {
+        "nazev": "R.U.R.",
+        "obalka_knihy": "assets/img/rur.png",
+        "autor": "Karel Čapek",
+        "zanr": "Drama",
+        "anotace": "Slavná antiutopická divadelní hra Karla Čapka z roku 1920, ve které poprvé zaznělo slovo robot, náleží do žánru sci-fi. Ústředním tématem je zkáza lidstva skrze příliš vyspělou techniku, která se vymkla kontrole. Aby se lidé zbavili nutnosti pracovat, stvoří si umělé sluhy–roboty, kteří se však vzbouří a lidstvo vyhladí. Nakonec ale dvojice těchto umělých stvoření, původně neschopná citů, mezi sebou objeví lásku a s požehnáním starého vynálezce se stanou novým Adamem a Evou.",
+        "rok": 1920,
+        "cena": 149.00,
+        "hodnoceni": 4.2
     }
 ]

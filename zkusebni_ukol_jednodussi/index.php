@@ -157,7 +157,7 @@
             <a href="details.php?id=<?= $kniha['id'] ?>" class="card-link">
                 <div class="card">
                     <div class="image-wrapper">
-                        <img src="<?= htmlspecialchars($kniha['obalka_knihy'] ?? 'assets/img/default.jpg') ?>" alt="Obálka knihy">
+                        <img src="<?= htmlspecialchars($kniha['obalka_knihy'] ?: 'assets/img/default.png') ?>" alt="Obálka knihy">
                     </div>
                     <h2><?= htmlspecialchars($kniha['nazev']) ?></h2>
                     <div class="info-row">
